@@ -1,4 +1,4 @@
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">🪶 Introduction</a>
 
 A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
 
